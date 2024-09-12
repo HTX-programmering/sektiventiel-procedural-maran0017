@@ -1,0 +1,1 @@
+// Hvis man laver en omvendt rækkefølge hvor du starter med øjne næse og mund, så vil cirklen (altså ansigtet) overwrite det, med andre ord vil den have mere prioritet. Så de andre ting vil være gemt om bag ved. 
